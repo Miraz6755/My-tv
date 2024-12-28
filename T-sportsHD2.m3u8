@@ -1,0 +1,25 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:433838821
+#EXT-X-VERSION:3
+#Creater By BDIXTV24
+#EXTINF:4.000,
+stream.php?chunks=https://live-cdn.tsports.com/live-02/master_720/212282024090757.ts
+#EXTINF:4.000,
+stream.php?chunks=https://live-cdn.tsports.com/live-02/master_720/212282024090801.ts
+#EXTINF:4.000,
+stream.php?chunks=https://live-cdn.tsports.com/live-02/master_720/212282024090805.ts
+#EXTINF:4.000,
+stream.php?chunks=https://live-cdn.tsports.com/live-02/master_720/212282024090809.ts
+#EXTINF:4.000,
+stream.php?chunks=https://live-cdn.tsports.com/live-02/master_720/212282024090813.ts
+#EXTINF:4.000,
+stream.php?chunks=https://live-cdn.tsports.com/live-02/master_720/212282024090817.ts
+#EXTINF:4.000,
+stream.php?chunks=https://live-cdn.tsports.com/live-02/master_720/212282024090821.ts
+#EXTINF:4.000,
+stream.php?chunks=https://live-cdn.tsports.com/live-02/master_720/212282024090825.ts
+#EXTINF:4.000,
+stream.php?chunks=https://live-cdn.tsports.com/live-02/master_720/212282024090829.ts
+#EXTINF:4.000,
+stream.php?chunks=https://live-cdn.tsports.com/live-02/master_720/212282024090833.ts
