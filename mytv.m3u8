@@ -1,7 +1,5 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vH8BVs78/logo.jpg" group-title="HOME CHANNEL", Powered by Sajib OP_Official 
-https://your-abbu.pages.dev/abbu.mp4
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T SPORTS HD
 http://103.96.235.18:8080/sports1/index.m3u8
